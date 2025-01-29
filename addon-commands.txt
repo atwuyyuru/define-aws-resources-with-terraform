@@ -1,0 +1,2 @@
+# Generate key for ec2
+ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa -N ""
